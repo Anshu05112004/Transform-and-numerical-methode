@@ -1,5 +1,5 @@
 # Transform-and-numerical-methode
-Math library that contain functions  Bisection method , Newton-Raphson  method, Regular -Falsi method, and secant method.
+Math functions created in Python  that contain functions  Bisection method , Newton-Raphson  method, Regular -Falsi method, and secant method.
 
 <img src="./downsign-graph-ic.gif" >
 
